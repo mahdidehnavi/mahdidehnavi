@@ -1,8 +1,11 @@
-## Hi there 👋
+## Hi👋 I'm Mahdi
+                                                    A computer engineering student
+
 
 <!--
 **mahdidehnavi/mahdidehnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+About Me:
+🎓 I'm a computer engineering student with a passion for learning and building creative projects.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

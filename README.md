@@ -40,7 +40,6 @@
     <tr>
       <td>
         <!-- کارت آمار با تم جدید Nord -->
-        <img src="https://github-readme-stats.vercel.app/api?username=mahdidehnavi&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td> 
         <!-- کارت زبان‌ها با تم جدید Nord -->

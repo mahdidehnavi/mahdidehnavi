@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="90px"/>, I'm Mahdi</h1>
+<h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="90px"/> I'm Mahdi</h1>
 <h3 align="center">A computer engineering student</h3>
 
 

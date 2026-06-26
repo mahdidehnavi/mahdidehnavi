@@ -34,21 +34,20 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
 </a>
+
+
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="left">
   <table>
     <tr>
       <td>
-        <!-- کارت آمار با تم جدید Nord -->
       </td>
-      <td> 
-        <!-- کارت زبان‌ها با تم جدید Nord -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidehnavi&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidehnavi&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
       </td>
     </tr>
   </table>
-</div
-
+</div>
 
 
   

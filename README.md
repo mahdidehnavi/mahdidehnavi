@@ -34,7 +34,11 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
 </a>
-
+  <!-- CMake -->
+  <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40" />
+  </a>
+</p>
 
 <h3 align="left">📊 GitHub Stats</h3>
 <div align="left">

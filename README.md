@@ -1,6 +1,10 @@
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="90px"/> I'm Mahdi</h1>
 <h3 align="center">A computer engineering student</h3>
 
+<!-- ===== SVG BANNER ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahdidehnavi/mahdidehnavi/main/stack.svg" alt="Tech Stack" width="900" />
+</p>
 
 <h3 align="left">📌 About Me:</h3>
 
@@ -39,8 +43,11 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdidehnavi&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidehnavi&theme=nord&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdidehnavi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidehnavi&theme=github_dark&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahdidehnavi&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
 </p>
 
 <h3 align="left">📧 Connect me:</h3>

@@ -2,7 +2,7 @@
 <h3 align="center">A computer engineering student</h3>
 
 
-- <h3 align="left">📌 About Me:</h3>
+<h3 align="left">📌 About Me:</h3>
 
 <ul>
   <li>🎓&nbsp Computer engineering student passionate about deep learning and creative projects.</li>
@@ -10,56 +10,48 @@
   <li>🎮&nbsp Into game dev and machine learning for adaptive game design.</li>
   <li>🏋️‍♂️&nbsp Sports keep me disciplined, focused, and energized for coding and learning. </li>
 </ul>
+
 <h3 align="left"><font color="#89ddff">💻 Languages:</font></h3>
 <p align="left">
-  <!-- C++ -->
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
-  <!-- Python -->
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
   </a> 
+</p>
+
 <h3 align="left"><font color="#89ddff">Tools:</font></h3>
 <p align="left">
-  
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
   </a>
-  <!-- Linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
   </a>
-  <!-- GitHub -->
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-</a>
-  <!-- CMake -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+  </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40" />
   </a>
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<div align="left">
-  <table>
-    <tr>
-      <td>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidehnavi&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahdidehnavi&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdidehnavi&theme=nord&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
+</p>
 
-
-  
 <h3 align="left">📧 Connect me:</h3>
 <p align="left">
   <a href="mailto:mahdidehnavi0086@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
   </a>
+  <a href="https://www.linkedin.com/in/mahdi-dehnavi-dev/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">

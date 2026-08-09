@@ -1,10 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="90px"/> I'm Mahdi</h1>
 <h3 align="center">A computer engineering student</h3>
 
-<!-- ===== SVG BANNER ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahdidehnavi/mahdidehnavi/main/stack.svg" alt="Tech Stack" width="900" />
-</p>
+
 
 <h3 align="left">📌 About Me:</h3>
 

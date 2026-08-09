@@ -91,28 +91,6 @@
 </p>
 
 ---
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mahdidehnavi&theme=nightowl"
-    alt="Mahdi's GitHub Streak"
-  />
-</p>
-
----
-
-<h3 align="left">🐍 Contribution Snake:</h3>
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/mahdidehnavi/mahdidehnavi/refs/heads/gh-pages/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-
 <h3 align="left">🌐 Socials:</h3>
 
 <p align="left">
@@ -136,3 +114,28 @@
   </a>
 
 </p>
+
+---
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=mahdidehnavi&theme=nightowl"
+    alt="Mahdi's GitHub Streak"
+  />
+</p>
+
+---
+
+<h3 align="left">🐍 Contribution Snake:</h3>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/mahdidehnavi/mahdidehnavi/refs/heads/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+
+

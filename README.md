@@ -21,11 +21,21 @@
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=cpp"
+      alt="C++"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=python"
+      alt="Python"
+      width="40"
+      height="40"
+    />
   </a>
 </p>
 
@@ -35,23 +45,48 @@
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=git"
+      alt="Git"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=linux"
+      alt="Linux"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      alt="GitHub"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40"/>
+    <img
+      src="https://skillicons.dev/icons?i=cmake"
+      alt="CMake"
+      width="40"
+      height="40"
+    />
   </a>
 
   <a href="https://www.raylib.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.raylib.com/favicon.ico" alt="Raylib" width="40" height="40"/>
+    <img
+      src="https://www.raylib.com/favicon.ico"
+      alt="Raylib"
+      width="40"
+      height="40"
+    />
   </a>
 </p>
 
@@ -72,12 +107,13 @@
 
 <p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mahdidehnavi/mahdidehnavi/gh-pages/github-contribution-grid-snake-dark.svg"
-    />
 
 ```
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/mahdidehnavi/mahdidehnavi/gh-pages/github-contribution-grid-snake-dark.svg"
+/>
+
 <source
   media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/mahdidehnavi/mahdidehnavi/gh-pages/github-contribution-grid-snake.svg"
@@ -97,6 +133,7 @@
 <h3 align="left">🌐 Socials:</h3>
 
 <p align="left">
+
   <a href="https://www.instagram.com/_mahdi.dev_" target="_blank">
     <img
       align="center"
@@ -114,4 +151,5 @@
       height="30"
     />
   </a>
+
 </p>

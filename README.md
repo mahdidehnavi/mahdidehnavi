@@ -43,49 +43,70 @@
 <h3 align="left">🛠️ Tools:</h3>
 
 <p align="left">
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+    <img
+      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+      alt="Git"
+      height="40"
+    />
   </a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="40" height="40"/>
+    <img
+      src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"
+      alt="Bash"
+      height="40"
+    />
   </a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+    <img
+      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="Linux"
+      height="40"
+    />
   </a>
 
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+      height="40"
+    />
   </a>
 
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40"/>
+    <img
+      src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"
+      alt="CMake"
+      height="40"
+    />
   </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img
-    src="https://skillicons.dev/icons?i=bash"
-    alt="Bash"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://skillicons.dev/icons?i=docker"
-    alt="Docker"
-    width="40"
-    height="40"
-  />
-</a>
-<a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://dl.svgcdn.com/png/simple-icons/sfml-400.png"
-    alt="SFML"
-    width="40"
-    height="40"
-  />
-</a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+      alt="Docker"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white"
+      alt="SFML"
+      height="40"
+    />
+  </a>
+
+  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"
+      alt="JSON"
+      height="40"
+    />
+  </a>
 
 </p>
 

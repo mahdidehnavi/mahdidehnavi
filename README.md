@@ -65,12 +65,13 @@
 
 <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://skillicons.dev/icons?i=sfml"
+    src="https://dl.svgcdn.com/png/simple-icons/sfml-400.png"
     alt="SFML"
     width="40"
     height="40"
   />
 </a>
+
 </p>
 
 ---
@@ -104,8 +105,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=mahdidehnavi&theme=nightowl"
-    alt="Mahdi's GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=mahdidehnavi&show_icons=true&theme=nightowl&hide_border=true&count_private=true"
+    alt="Mahdi's GitHub Stats"
   />
 </p>
 

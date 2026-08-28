@@ -70,7 +70,14 @@
     height="40"
   />
 </a>
-
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://skillicons.dev/icons?i=docker"
+    alt="Docker"
+    width="40"
+    height="40"
+  />
+</a>
 <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
   <img
     src="https://dl.svgcdn.com/png/simple-icons/sfml-400.png"

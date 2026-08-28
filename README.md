@@ -63,9 +63,14 @@
     <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40"/>
   </a>
 
-  <a href="https://www.raylib.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.raylib.com/favicon.ico" alt="Raylib" width="40" height="40"/>
-  </a>
+<a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://skillicons.dev/icons?i=sfml"
+    alt="SFML"
+    width="40"
+    height="40"
+  />
+</a>
 </p>
 
 ---

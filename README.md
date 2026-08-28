@@ -136,7 +136,31 @@
 </p>
 
 ---
+<h3 align="left">🤝 Connect with Me:</h3>
 
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/mahdi-dehnavi-dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      alt="LinkedIn"
+      width="50"
+      height="50"
+    />
+  </a>
+
+  <a href="mailto:mahdidehnavi0086@gmail.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      alt="Gmail"
+      width="50"
+      height="50"
+    />
+  </a>
+
+</p>
+
+---
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">

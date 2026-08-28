@@ -62,6 +62,14 @@
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" width="40" height="40"/>
   </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+  <img
+    src="https://skillicons.dev/icons?i=bash"
+    alt="Bash"
+    width="40"
+    height="40"
+  />
+</a>
 
 <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer">
   <img

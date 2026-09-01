@@ -24,8 +24,8 @@
     <img
       src="https://skillicons.dev/icons?i=cpp"
       alt="C++"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
 
@@ -33,8 +33,8 @@
     <img
       src="https://skillicons.dev/icons?i=python"
       alt="Python"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
 </p>

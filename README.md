@@ -51,7 +51,13 @@
       height="40"
     />
   </a>
-
+  <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"
+      alt="Tmux"
+      height="40"
+    />
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"

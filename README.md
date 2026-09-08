@@ -115,7 +115,20 @@
   </a>
 
 </p>
-
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"
+    alt="Vim"
+    height="40"
+  />
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+    alt="NumPy"
+    height="40"
+  />
+</a>
 ---
 <h3 align="left">🌐 Socials:</h3>
 

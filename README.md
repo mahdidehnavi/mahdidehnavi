@@ -1,9 +1,10 @@
-<h1 align="center">
-  Hi <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="90px"/> I'm Mahdi
-</h1>
 
+<p align="center">
+  <a href="https://github.com/mahdi">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2496ED&fontSize=54&height=90&width=420&text=%F0%9F%91%8B%20Hi%2C%20I'm%20Mahdi" alt="👋 Hi, I'm Mahdi" />
+  </a>
+</p>
 <h3 align="center">A Computer Engineering Student</h3>
-
 ---
 
 <h3 align="left">📌 About Me:</h3>

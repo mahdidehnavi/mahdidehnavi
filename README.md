@@ -49,21 +49,21 @@
     <img
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
       alt="Git"
-      height="40"
+      height="50"
     />
   </a>
   <a href="https://github.com/tmux/tmux" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"
       alt="Tmux"
-      height="40"
+      height="50"
     />
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"
       alt="Bash"
-      height="40"
+      height="50"
     />
   </a>
 
@@ -71,7 +71,7 @@
     <img
       src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
       alt="Linux"
-      height="40"
+      height="50"
     />
   </a>
 
@@ -79,7 +79,7 @@
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="GitHub"
-      height="40"
+      height="50"
     />
   </a>
 
@@ -87,7 +87,7 @@
     <img
       src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"
       alt="CMake"
-      height="40"
+      height="50"
     />
   </a>
 
@@ -95,7 +95,7 @@
     <img
       src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
       alt="Docker"
-      height="40"
+      height="50"
     />
   </a>
 
@@ -103,7 +103,7 @@
     <img
       src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white"
       alt="SFML"
-      height="40"
+      height="50"
     />
   </a>
 
@@ -111,7 +111,7 @@
     <img
       src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"
       alt="JSON"
-      height="40"
+      height="50"
     />
   </a>
 
@@ -120,17 +120,19 @@
   <img
     src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"
     alt="Vim"
-    height="40"
+    height="50"
   />
 </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img
     src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
     alt="NumPy"
-    height="40"
+    height="50"
   />
 </a>
+
 ---
+
 <h3 align="left">🌐 Socials:</h3>
 
 <p align="left">

@@ -186,8 +186,6 @@
 ---
 <h3 align="left">📊 GitHub Stats:</h3>
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     height="170"

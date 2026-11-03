@@ -186,6 +186,28 @@
 ---
 <h3 align="left">📊 GitHub Stats:</h3>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=mahdidehnavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahdidehnavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app?user=mahdidehnavi&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 ---
 
